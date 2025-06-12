@@ -5,46 +5,33 @@
   <em>aka <strong>Nivy</strong> – a curious coder who loves pixel-perfect UIs ✨ and cozy night vibes 🌙</em>
 </p>
 
-<hr/>
+
 
 <h3 align="center">🔧 Tech I Love Working With</h3>
 
-<!-- 🧩 React & Ecosystem -->
-<h4 align="center">⚛️ React & Ecosystem</h4>
 <p align="center">
-  <img src="https://img.shields.io/badge/React-DBF4FF?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Redux-EDE7F6?style=for-the-badge&logo=redux&logoColor=764ABC" />
-  <img src="https://img.shields.io/badge/REST_API-FFE5CC?style=for-the-badge&logo=swagger&logoColor=FF6F00" />
-</p>
-
-<!-- ⚙️ JavaScript Ecosystem -->
-<h4 align="center">⚙️ JavaScript & TypeScript</h4>
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-FFF5CC?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/TypeScript-CCE0FF?style=for-the-badge&logo=typescript&logoColor=3178C6" />
-  <img src="https://img.shields.io/badge/jQuery-E0F0FA?style=for-the-badge&logo=jquery&logoColor=0769AD" />
-</p>
-
-<!-- 🧱 Core Frontend -->
-<h4 align="center">🧱 Styling & Layout</h4>
-<p align="center">
+  <!-- Core Frontend -->
   <img src="https://img.shields.io/badge/HTML5-FEECE0?style=for-the-badge&logo=html5&logoColor=E34F26" />
   <img src="https://img.shields.io/badge/CSS3-E0F0FF?style=for-the-badge&logo=css3&logoColor=1572B6" />
   <img src="https://img.shields.io/badge/SASS-FCE4EC?style=for-the-badge&logo=sass&logoColor=CC6699" />
   <img src="https://img.shields.io/badge/Bootstrap-EDE4F5?style=for-the-badge&logo=bootstrap&logoColor=7952B3" />
-</p>
 
-<!-- 🎨 Design & UI -->
-<h4 align="center">🎨 UI Design & Prototyping</h4>
-<p align="center">
+  <!-- JavaScript Ecosystem -->
+  <img src="https://img.shields.io/badge/JavaScript-FFF5CC?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/TypeScript-CCE0FF?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+  <img src="https://img.shields.io/badge/jQuery-E0F0FA?style=for-the-badge&logo=jquery&logoColor=0769AD" />
+
+  <!-- Frameworks & State -->
+  <img src="https://img.shields.io/badge/React-DBF4FF?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Redux-EDE7F6?style=for-the-badge&logo=redux&logoColor=764ABC" />
+
+  <!-- Design & Prototyping -->
   <img src="https://img.shields.io/badge/Figma-FDE5E5?style=for-the-badge&logo=figma&logoColor=F24E1E" />
-</p>
 
-<!-- 🔌 Backend & DB -->
-<h4 align="center">🔌 Backend & Integration</h4>
-<p align="center">
+  <!-- Backend & Integration -->
   <img src="https://img.shields.io/badge/Node.js-D9F2E6?style=for-the-badge&logo=node.js&logoColor=339933" />
   <img src="https://img.shields.io/badge/Django-DDEBE3?style=for-the-badge&logo=django&logoColor=092E20" />
+  <img src="https://img.shields.io/badge/REST_API-FFE5CC?style=for-the-badge&logo=swagger&logoColor=FF6F00" />
   <img src="https://img.shields.io/badge/MySQL-E0ECF8?style=for-the-badge&logo=mysql&logoColor=4479A1" />
 </p>
 
