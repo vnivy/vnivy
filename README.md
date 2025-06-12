@@ -1,8 +1,9 @@
 <h1 align="center">Hi there, I'm Nivetha 👋</h1>
 <p align="center">
-  <em>A passionate Frontend Developer & UI Enthusiast from Toronto 🇨🇦</em><br/>
-  <em>aka <strong>vnivy</strong> – a curious coder who vibes on caffeine ☕ and colorful UIs 🎨</em>
+<em>Frontend developer from Toronto 🇨🇦, obsessed with smooth flows, sharp pixels, and clean code ✨</em><br/>
+  <em>aka <strong>Nivy</strong> – a curious coder who loves pixel-perfect UIs ✨ and cozy night vibes 🌙</em>
 </p>
+
 
 ---
 
