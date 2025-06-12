@@ -5,14 +5,6 @@
   <em>aka <strong>Nivy</strong> – a curious coder who loves pixel-perfect UIs ✨ and cozy night vibes 🌙</em>
 </p>
 
-
-<br>
-<br>
-
-<h3 align="center">🔧 Tech I Love Working With</h3>
-
-
-
 ---
 
 ### 💡 About Me
